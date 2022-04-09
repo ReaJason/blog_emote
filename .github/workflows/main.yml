@@ -1,8 +1,8 @@
-name: Update README.md
+name: Update Emote
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   # pull_request:
   #   branches: [ master ]
   # schedule:
@@ -13,20 +13,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-    - name: Update README.md
-      run: |
-        python3 update.py
+      - name: Update Emote
+        run: |
+          python3 update.py
 
-    - name: commit
-      run: |
-        git config --global user.email 1587047405@qq.com
-        git config --global user.name ReaJason
-        git add .
-        git commit -m 'upload'
+      - name: commit
+        run: |
+          git config --global user.email 1587047405@qq.com
+          git config --global user.name ReaJason
+          git add .
+          git commit -m 'upload'
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
