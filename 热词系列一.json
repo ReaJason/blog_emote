@@ -1,8 +1,23 @@
 [
   {
+    "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_洛水天依].png",
+    "name": "@[热词系列_洛水天依]",
+    "reg": "@\\[热词系列_洛水天依\\]"
+  },
+  {
     "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_知识增加].png",
     "name": "@[热词系列_知识增加]",
     "reg": "@\\[热词系列_知识增加\\]"
+  },
+  {
+    "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_优雅].png",
+    "name": "@[热词系列_优雅]",
+    "reg": "@\\[热词系列_优雅\\]"
+  },
+  {
+    "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词表情_哎呦不错哦].png",
+    "name": "@[热词表情_哎呦不错哦]",
+    "reg": "@\\[热词表情_哎呦不错哦\\]"
   },
   {
     "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_你币有了].png",
@@ -243,6 +258,11 @@
     "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_神仙UP].png",
     "name": "@[热词系列_神仙UP]",
     "reg": "@\\[热词系列_神仙UP\\]"
+  },
+  {
+    "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_福建舰].png",
+    "name": "@[热词系列_福建舰]",
+    "reg": "@\\[热词系列_福建舰\\]"
   },
   {
     "src": "https://cdn.jsdelivr.net/gh/ReaJason/blog_emote/emote/热词系列一/[热词系列_锤].png",
